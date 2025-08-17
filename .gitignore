@@ -1,5 +1,10 @@
+# Ignorando ambientes virtuais
 **/venv/
 **/venv/*
 venv/
 */venv/
 */venv/*
+
+# Ignorar variáveis de ambiente
+.env
+*.env
